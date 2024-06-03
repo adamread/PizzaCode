@@ -1,0 +1,5 @@
+<resources>
+  <string name="greeting_name">Android</string>
+  <string name="app_name">PizzaCoda</string>
+  <string name="button_text">Press Here!</string>
+</resources>
